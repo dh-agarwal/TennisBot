@@ -1,4 +1,5 @@
 # TennisBot
+•	Autonomous robot for collecting and long-range feeding of tennis balls, controllable with mobile Wi-Fi/Bluetooth
 
 ## Iterations
 
